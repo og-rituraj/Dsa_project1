@@ -167,7 +167,7 @@ void baggage_system() {
             printf("Exiting the baggage system.\n");
             return;
             default:
-            printf(" wrong choice. Please enter a number between 1-6.\n");
+            printf(" invalid choice. Please enter a number between 1-6.\n");
         }
     }
 }
